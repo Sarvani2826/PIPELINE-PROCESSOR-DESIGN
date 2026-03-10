@@ -30,3 +30,4 @@ The results demonstrated that the pipelined processor successfully executed mult
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cb44296c-c938-4b0c-89ed-820eb77effcf" />
